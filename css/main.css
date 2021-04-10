@@ -2,8 +2,8 @@ html {
   box-sizing: border-box;
   font-family: sans-serif;
   line-height: 1.5;
-  margin: .5rem;
-  padding: 1rem .75em 1em .6em
+  margin: 0;
+  padding: 0;
 }
 
 *, *::before, *::after {
@@ -13,7 +13,7 @@ html {
 header img {
   width: 2rem;
   display: flex;
-  order:-1;
+  order: -1;
 }
 
 body {
@@ -26,7 +26,6 @@ header {
   justify-content: space-between;
   align-items: center;
   background-color: #e2e2e2;
-
 }
 
 header h1 {
