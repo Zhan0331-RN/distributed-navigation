@@ -49,6 +49,12 @@ nav li {
 }
 
 nav a {
+  text-decoration: none;
   list-style-type: none;
-    color: #0074d9;
+  color: #0074d9;
+  margin-top: auto;
+}
+
+nav a:hover {
+  color: #fff;
 }
