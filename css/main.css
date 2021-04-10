@@ -19,9 +19,14 @@ body {
 header {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 h1 {
+  font-family: sans-serif;
+}
+
+header p {
   font-family: sans-serif;
 }
 
